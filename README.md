@@ -1,7 +1,7 @@
 # main-portfolio
 Portfolio website page 
-What was learnt
 
+What was learned
 1. Creating 3D effect via parallax design
 2. Arranging properties like paragraphs, images, headings, etc.
 3. Creating apprporiate navigation bar with hyperlinks for accesbility
